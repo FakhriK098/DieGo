@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.DieGo" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">#1a4301</item>
+        <item name="colorPrimaryDark">#7e8d85</item>
+        <item name="colorAccent">#8cb369</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="Theme.DieGo.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.DieGo.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.DieGo.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
